@@ -4,6 +4,9 @@ public class Test1 {
 	
  
 	public String name = "lck";
-	System.out.println("王海兵是个哈皮");
+	public static void main(String[] args) {
+		System.out.println("王海兵是个哈皮");
+	}
+	
 
 }
